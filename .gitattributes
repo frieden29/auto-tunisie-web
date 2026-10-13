@@ -1,0 +1,4 @@
+# Preserve generated vendor/license bytes; their whitespace is upstream.
+assets/NOTICES -whitespace
+canvaskit/*.js -whitespace
+canvaskit/**/*.js -whitespace

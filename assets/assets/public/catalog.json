@@ -1,0 +1,397 @@
+{
+  "format_version": 1,
+  "mode": "public-static",
+  "governorates": [
+    {
+      "code": "TN-11",
+      "names": {
+        "ar": "تونس",
+        "fr": "Tunis",
+        "de": "Tunis",
+        "en": "Tunis"
+      },
+      "source_url": "https://www.openstreetmap.org/relation/1435835",
+      "boundary_source_id": "relation/1435835",
+      "boundary_status": "joined-and-point-tested",
+      "license": "ODbL-1.0"
+    },
+    {
+      "code": "TN-12",
+      "names": {
+        "ar": "أريانة",
+        "fr": "Ariana",
+        "de": "Ariana",
+        "en": "Ariana"
+      },
+      "source_url": "https://www.openstreetmap.org/relation/1435830",
+      "boundary_source_id": "relation/1435830",
+      "boundary_status": "joined-and-point-tested",
+      "license": "ODbL-1.0"
+    },
+    {
+      "code": "TN-13",
+      "names": {
+        "ar": "بن عروس",
+        "fr": "Ben Arous",
+        "de": "Ben Arous",
+        "en": "Ben Arous"
+      },
+      "source_url": "https://www.openstreetmap.org/relation/1435836",
+      "boundary_source_id": "relation/1435836",
+      "boundary_status": "joined-and-point-tested",
+      "license": "ODbL-1.0"
+    },
+    {
+      "code": "TN-14",
+      "names": {
+        "ar": "منوبة",
+        "fr": "La Manouba",
+        "de": "La Manouba",
+        "en": "La Manouba"
+      },
+      "source_url": "https://www.openstreetmap.org/relation/1435828",
+      "boundary_source_id": "relation/1435828",
+      "boundary_status": "joined-and-point-tested",
+      "license": "ODbL-1.0"
+    },
+    {
+      "code": "TN-21",
+      "names": {
+        "ar": "نابل",
+        "fr": "Nabeul",
+        "de": "Nabeul",
+        "en": "Nabeul"
+      },
+      "source_url": "https://www.openstreetmap.org/relation/1435825",
+      "boundary_source_id": "relation/1435825",
+      "boundary_status": "joined-and-point-tested",
+      "license": "ODbL-1.0"
+    },
+    {
+      "code": "TN-22",
+      "names": {
+        "ar": "زغوان",
+        "fr": "Zaghouan",
+        "de": "Zaghouan",
+        "en": "Zaghouan"
+      },
+      "source_url": "https://www.openstreetmap.org/relation/1435837",
+      "boundary_source_id": "relation/1435837",
+      "boundary_status": "joined-and-point-tested",
+      "license": "ODbL-1.0"
+    },
+    {
+      "code": "TN-23",
+      "names": {
+        "ar": "بنزرت",
+        "fr": "Bizerte",
+        "de": "Bizerte",
+        "en": "Bizerte"
+      },
+      "source_url": "https://www.openstreetmap.org/relation/1435827",
+      "boundary_source_id": "relation/1435827",
+      "boundary_status": "joined-and-point-tested",
+      "license": "ODbL-1.0"
+    },
+    {
+      "code": "TN-31",
+      "names": {
+        "ar": "باجة",
+        "fr": "Béja",
+        "de": "Béja",
+        "en": "Béja"
+      },
+      "source_url": "https://www.openstreetmap.org/relation/1435833",
+      "boundary_source_id": "relation/1435833",
+      "boundary_status": "joined-and-point-tested",
+      "license": "ODbL-1.0"
+    },
+    {
+      "code": "TN-32",
+      "names": {
+        "ar": "جندوبة",
+        "fr": "Jendouba",
+        "de": "Jendouba",
+        "en": "Jendouba"
+      },
+      "source_url": "https://www.openstreetmap.org/relation/1435834",
+      "boundary_source_id": "relation/1435834",
+      "boundary_status": "joined-and-point-tested",
+      "license": "ODbL-1.0"
+    },
+    {
+      "code": "TN-33",
+      "names": {
+        "ar": "الكاف",
+        "fr": "Le Kef",
+        "de": "Le Kef",
+        "en": "Le Kef"
+      },
+      "source_url": "https://www.openstreetmap.org/relation/1435838",
+      "boundary_source_id": "relation/1435838",
+      "boundary_status": "joined-and-point-tested",
+      "license": "ODbL-1.0"
+    },
+    {
+      "code": "TN-34",
+      "names": {
+        "ar": "سليانة",
+        "fr": "Siliana",
+        "de": "Siliana",
+        "en": "Siliana"
+      },
+      "source_url": "https://www.openstreetmap.org/relation/1435829",
+      "boundary_source_id": "relation/1435829",
+      "boundary_status": "joined-and-point-tested",
+      "license": "ODbL-1.0"
+    },
+    {
+      "code": "TN-41",
+      "names": {
+        "ar": "القيروان",
+        "fr": "Kairouan",
+        "de": "Kairouan",
+        "en": "Kairouan"
+      },
+      "source_url": "https://www.openstreetmap.org/relation/1435832",
+      "boundary_source_id": "relation/1435832",
+      "boundary_status": "joined-and-point-tested",
+      "license": "ODbL-1.0"
+    },
+    {
+      "code": "TN-42",
+      "names": {
+        "ar": "القصرين",
+        "fr": "Kasserine",
+        "de": "Kasserine",
+        "en": "Kasserine"
+      },
+      "source_url": "https://www.openstreetmap.org/relation/1434949",
+      "boundary_source_id": "relation/1434949",
+      "boundary_status": "joined-and-point-tested",
+      "license": "ODbL-1.0"
+    },
+    {
+      "code": "TN-43",
+      "names": {
+        "ar": "سيدي بوزيد",
+        "fr": "Sidi Bouzid",
+        "de": "Sidi Bouzid",
+        "en": "Sidi Bouzid"
+      },
+      "source_url": "https://www.openstreetmap.org/relation/1435831",
+      "boundary_source_id": "relation/1435831",
+      "boundary_status": "joined-and-point-tested",
+      "license": "ODbL-1.0"
+    },
+    {
+      "code": "TN-51",
+      "names": {
+        "ar": "سوسة",
+        "fr": "Sousse",
+        "de": "Sousse",
+        "en": "Sousse"
+      },
+      "source_url": "https://www.openstreetmap.org/relation/3152094",
+      "boundary_source_id": "relation/3152094",
+      "boundary_status": "joined-and-point-tested",
+      "license": "ODbL-1.0"
+    },
+    {
+      "code": "TN-52",
+      "names": {
+        "ar": "المنستير",
+        "fr": "Monastir",
+        "de": "Monastir",
+        "en": "Monastir"
+      },
+      "source_url": "https://www.openstreetmap.org/relation/1434954",
+      "boundary_source_id": "relation/1434954",
+      "boundary_status": "joined-and-point-tested",
+      "license": "ODbL-1.0"
+    },
+    {
+      "code": "TN-53",
+      "names": {
+        "ar": "المهدية",
+        "fr": "Mahdia",
+        "de": "Mahdia",
+        "en": "Mahdia"
+      },
+      "source_url": "https://www.openstreetmap.org/relation/1434955",
+      "boundary_source_id": "relation/1434955",
+      "boundary_status": "joined-and-point-tested",
+      "license": "ODbL-1.0"
+    },
+    {
+      "code": "TN-61",
+      "names": {
+        "ar": "صفاقس",
+        "fr": "Sfax",
+        "de": "Sfax",
+        "en": "Sfax"
+      },
+      "source_url": "https://www.openstreetmap.org/relation/1434957",
+      "boundary_source_id": "relation/1434957",
+      "boundary_status": "joined-and-point-tested",
+      "license": "ODbL-1.0"
+    },
+    {
+      "code": "TN-71",
+      "names": {
+        "ar": "قفصة",
+        "fr": "Gafsa",
+        "de": "Gafsa",
+        "en": "Gafsa"
+      },
+      "source_url": "https://www.openstreetmap.org/relation/1434951",
+      "boundary_source_id": "relation/1434951",
+      "boundary_status": "joined-and-point-tested",
+      "license": "ODbL-1.0"
+    },
+    {
+      "code": "TN-72",
+      "names": {
+        "ar": "توزر",
+        "fr": "Tozeur",
+        "de": "Tozeur",
+        "en": "Tozeur"
+      },
+      "source_url": "https://www.openstreetmap.org/relation/1435826",
+      "boundary_source_id": "relation/1435826",
+      "boundary_status": "joined-and-point-tested",
+      "license": "ODbL-1.0"
+    },
+    {
+      "code": "TN-73",
+      "names": {
+        "ar": "قبلي",
+        "fr": "Kébili",
+        "de": "Kébili",
+        "en": "Kébili"
+      },
+      "source_url": "https://www.openstreetmap.org/relation/1434950",
+      "boundary_source_id": "relation/1434950",
+      "boundary_status": "joined-and-point-tested",
+      "license": "ODbL-1.0"
+    },
+    {
+      "code": "TN-81",
+      "names": {
+        "ar": "قابس",
+        "fr": "Gabès",
+        "de": "Gabès",
+        "en": "Gabès"
+      },
+      "source_url": "https://www.openstreetmap.org/relation/1434956",
+      "boundary_source_id": "relation/1434956",
+      "boundary_status": "joined-and-point-tested",
+      "license": "ODbL-1.0"
+    },
+    {
+      "code": "TN-82",
+      "names": {
+        "ar": "مدنين",
+        "fr": "Médenine",
+        "de": "Médenine",
+        "en": "Médenine"
+      },
+      "source_url": "https://www.openstreetmap.org/relation/1434952",
+      "boundary_source_id": "relation/1434952",
+      "boundary_status": "joined-and-point-tested",
+      "license": "ODbL-1.0"
+    },
+    {
+      "code": "TN-83",
+      "names": {
+        "ar": "تطاوين",
+        "fr": "Tataouine",
+        "de": "Tataouine",
+        "en": "Tataouine"
+      },
+      "source_url": "https://www.openstreetmap.org/relation/1434953",
+      "boundary_source_id": "relation/1434953",
+      "boundary_status": "joined-and-point-tested",
+      "license": "ODbL-1.0"
+    }
+  ],
+  "categories": [
+    {
+      "slug": "repair",
+      "names": {
+        "ar": "ميكانيك وإصلاح",
+        "fr": "Mécanique et réparation",
+        "de": "Werkstatt und Reparatur",
+        "en": "Repair and maintenance"
+      }
+    },
+    {
+      "slug": "spare-parts",
+      "names": {
+        "ar": "قطع غيار",
+        "fr": "Pièces détachées",
+        "de": "Ersatzteile",
+        "en": "Spare parts"
+      }
+    },
+    {
+      "slug": "tyres",
+      "names": {
+        "ar": "إطارات",
+        "fr": "Pneus",
+        "de": "Reifen",
+        "en": "Tyres"
+      }
+    },
+    {
+      "slug": "electrical",
+      "names": {
+        "ar": "كهرباء وتشخيص",
+        "fr": "Électricité et diagnostic",
+        "de": "Elektrik und Diagnose",
+        "en": "Electrical and diagnostics"
+      }
+    },
+    {
+      "slug": "bodywork",
+      "names": {
+        "ar": "هيكل وطلاء",
+        "fr": "Carrosserie et peinture",
+        "de": "Karosserie und Lackierung",
+        "en": "Bodywork and paint"
+      }
+    },
+    {
+      "slug": "car-wash",
+      "names": {
+        "ar": "غسيل سيارات",
+        "fr": "Lavage auto",
+        "de": "Autowäsche",
+        "en": "Car wash"
+      }
+    },
+    {
+      "slug": "towing",
+      "names": {
+        "ar": "جر ومساعدة",
+        "fr": "Remorquage et assistance",
+        "de": "Abschleppdienst",
+        "en": "Towing and assistance"
+      }
+    },
+    {
+      "slug": "other",
+      "names": {
+        "ar": "خدمات سيارات أخرى",
+        "fr": "Autres services auto",
+        "de": "Weitere Fahrzeugdienste",
+        "en": "Other automotive services"
+      }
+    }
+  ],
+  "localities": [],
+  "establishments": [],
+  "attribution": "© OpenStreetMap contributors",
+  "license_url": "https://www.openstreetmap.org/copyright",
+  "publication_approved_businesses": 0
+}
